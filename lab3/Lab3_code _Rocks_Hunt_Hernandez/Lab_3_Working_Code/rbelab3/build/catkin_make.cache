@@ -1,0 +1,2 @@
+lab3nav
+-DCATKIN_DEVEL_PREFIX=/home/rbe/Lab_3_Working_Code/rbelab3/devel -DCMAKE_INSTALL_PREFIX=/home/rbe/Lab_3_Working_Code/rbelab3/install -G Unix Makefiles

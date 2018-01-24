@@ -1,0 +1,8 @@
+prefix=/home/bill/rbelab3/devel
+
+Name: lab3nav
+Description: Description of lab3nav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bill/rbelab3/devel/lib 
+Requires: 

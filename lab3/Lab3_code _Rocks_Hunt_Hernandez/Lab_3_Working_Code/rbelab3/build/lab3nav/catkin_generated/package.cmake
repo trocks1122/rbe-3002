@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "lab3nav")
+set(lab3nav_MAINTAINER "bill <bill@todo.todo>")
+set(lab3nav_DEPRECATED "")
+set(lab3nav_VERSION "0.0.0")
+set(lab3nav_BUILD_DEPENDS "roscpp" "rospy")
+set(lab3nav_RUN_DEPENDS "roscpp" "rospy")
+set(lab3nav_BUILDTOOL_DEPENDS "catkin")
